@@ -7,9 +7,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "CI= react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "CI= react-scripts build"
   },
   "repository": {
     "type": "git",
