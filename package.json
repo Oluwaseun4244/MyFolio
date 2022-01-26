@@ -20,7 +20,7 @@
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.1",
+    "@parcel/transformer-sass": "^2.2.1",
     "parcel": "^2.2.1",
     "prettier": "^2.4.1"
   },
